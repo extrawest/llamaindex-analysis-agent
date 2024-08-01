@@ -81,3 +81,9 @@ const filesToParse = [
   "./data/ICS_EUR_Ukraine_29AUG2023_PUBLIC.pdf",
   "./data/YourNewDocument.pdf"
 ];
+```
+
+## Demo
+
+https://github.com/user-attachments/assets/0a5e33ec-79ac-426c-b770-c4108df374a4
+
