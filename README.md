@@ -1,6 +1,6 @@
-# Ukraine Analysis Agent
+# Analysis Agent
 
-This project is a Node.js application that uses advanced AI and natural language processing techniques to analyze and answer questions about Ukraine and related information. It combines document parsing, vector storage, and an AI agent to provide intelligent responses.
+This project is a Node.js application that uses advanced AI and natural language processing techniques to analyze and answer questions about the provided resources and related information. It combines document parsing, vector storage, and an AI agent to provide intelligent responses.
 
 ## Technologies and Frameworks Used
 
@@ -63,11 +63,6 @@ docker run -p 6333:6333 -p 6334:6334 \
 Run the script with:
 
 `npx tsx index.ts`
-
-The script will process the documents, set up the AI agent, and demonstrate its capabilities by asking three questions:
-1. Ukraine's strengths
-2. World Bank's estimate to rebuild Ukraine
-3. A simple mathematical calculation
 
 ## Input Data
 
