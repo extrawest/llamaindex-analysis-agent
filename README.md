@@ -2,6 +2,10 @@
 
 This project is a Node.js application that uses advanced AI and natural language processing techniques to analyze and answer questions about the provided resources and related information. It combines document parsing, vector storage, and an AI agent to provide intelligent responses.
 
+## Demo
+
+https://github.com/user-attachments/assets/0a5e33ec-79ac-426c-b770-c4108df374a4
+
 ## Technologies and Frameworks Used
 
 - **Node.js**: The runtime environment for executing the TypeScript code.
@@ -82,8 +86,3 @@ const filesToParse = [
   "./data/YourNewDocument.pdf"
 ];
 ```
-
-## Demo
-
-https://github.com/user-attachments/assets/0a5e33ec-79ac-426c-b770-c4108df374a4
-
